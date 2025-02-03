@@ -1,4 +1,4 @@
-# Performance_ContactListApp_JMeter
+# Performance-ContactListApp-JMeter
 
 Project Bootcamp SanberCode - Quality Assurance Batch 63
 
